@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Angular**
 
-- 📫 How to reach me **isomadinoakmal1997@gmail.com**
+- 📫 How to reach me **isomadinovakmal1997@gmail.com** or **https://t.me/IE_N_DI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
