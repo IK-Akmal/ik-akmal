@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ik-akmal&label=Profile%20views&color=0e75b6&style=flat" alt="ik-akmal" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Angular, Rust**
 
 - 📫 How to reach me **https://t.me/IKAkmal**
 
